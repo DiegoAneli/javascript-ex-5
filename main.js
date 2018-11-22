@@ -23,17 +23,17 @@ var studenti = [
   {
     'nome': "John",
     'cognome': "Titor",
-    'eta': ""
+    'eta': "115"
   },
   {
     'nome': "Paolino",
     'cognome': "Paperino",
-    'eta': ""
+    'eta': "130"
   },
   {
     'nome': "Robin",
     'cognome': "Hood",
-    'eta': ""
+    'eta': "145"
   }
 ];
 
